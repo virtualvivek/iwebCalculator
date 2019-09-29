@@ -5,7 +5,7 @@
 
 <h1 align="center">iweb-calculator</h1>
 <p align="center">
-    An ios-12 inspired ultra light web calculator
+    ______  An ios-12 inspired ultra light web calculator  ______
 </p>
 
 <img align="left" src="https://github.com/vivekverma007/iweb-calculator/blob/master/preview/preview2.PNG" width="220" /> 
@@ -29,7 +29,8 @@
 ### Status : ​​​​ ![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator.svg?color=orange) ​​ ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekverma007/iweb-calculator.svg?color=yellow) ​​ ![GitHub release](https://img.shields.io/badge/release-v.1.0Beta-darklime.svg?style=flat)
 
 
-### Social : ​​​​ [![Twitter](https://img.shields.io/badge/Twitter-@Vivekverma__-blue.svg?style=flat)](http://twitter.com/Vivekverma__)
+### Social : ​​​​ 
+[![Twitter](https://img.shields.io/badge/Twitter-@Vivekverma__-blue.svg?style=flat)](http://twitter.com/Vivekverma__)
 [![Codepen](https://img.shields.io/badge/Codepen-@vivekverma007-orange.svg?style=flat)](http://codepen.com/vivekverma007)
 [![Instagram](https://img.shields.io/badge/Instagram-@vivekverma__-ff69b4.svg?style=flat)](http://instagram.com/vivekverma__)
 
