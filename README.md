@@ -21,11 +21,15 @@
 ```html
 <script type='text/javascript' src='angular.min.js'></script>
 ```
+### Live Demo : [virtualiz.me/iweb-calculator](https://virtualize.netlify.com/)
 
-#### Status : ​​​​ ![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator.svg?color=orange) ​​ ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekverma007/iweb-calculator.svg?color=yellow) ​​ ![GitHub release](https://img.shields.io/badge/release-v.1.0Beta-darklime.svg?style=flat)
+​​
+​​
+
+### Status : ​​​​ ![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator.svg?color=orange) ​​ ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekverma007/iweb-calculator.svg?color=yellow) ​​ ![GitHub release](https://img.shields.io/badge/release-v.1.0Beta-darklime.svg?style=flat)
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-@Vivekverma__-blue.svg?style=flat)](http://twitter.com/Vivekverma__)
+### Social : ​​​​ [![Twitter](https://img.shields.io/badge/Twitter-@Vivekverma__-blue.svg?style=flat)](http://twitter.com/Vivekverma__)
 [![Codepen](https://img.shields.io/badge/Codepen-@vivekverma007-orange.svg?style=flat)](http://codepen.com/vivekverma007)
 [![Instagram](https://img.shields.io/badge/Instagram-@vivekverma__-ff69b4.svg?style=flat)](http://instagram.com/vivekverma__)
 
