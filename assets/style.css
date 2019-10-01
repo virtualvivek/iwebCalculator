@@ -1,0 +1,121 @@
+body
+{
+    background: url(img/preview_back.jpg) no-repeat;
+    background-position: center;;
+    background-size: cover;
+}
+
+button {
+  font-size: 20px;
+}
+
+button:focus
+{
+    outline: none;
+}
+
+.background-green {
+  background: green;
+  background-color: green;
+}
+
+.container {
+  display: grid;
+    justify-content: center;
+    grid-template-columns: 50px 50px 50px 50px;
+    grid-template-rows: 80px 55px;
+    grid-template-areas:
+        "header header header header"
+        "main main main main"
+        "main main main main"
+        "main main main main"
+        "main main main main"
+        "main main main main";
+    width: 220px;
+    background: #111;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 30px;
+    border: 4px solid #16ab9c;
+    margin: auto;
+    margin-top: 6%;
+}
+
+.item-header {
+  grid-area: header;
+  color: white;
+}
+
+#globalAnswer {
+  background-color:#111;
+  font-size: 1px;
+}
+
+#currentValue {
+  background-color: #111;
+  grid-column-start: 1;
+  grid-column-end: span 4;
+  text-align: right;
+    font-size: 35px;
+    height: 50px;
+    padding-right: 10px;
+    position: relative;
+    top: 15px;
+}
+
+button.btn {
+  background-color: dimgray;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  margin: 4px 2px;
+  border-radius: 50%;
+}
+
+button.orange {
+  background-color: #16ab9c;
+}
+
+button.orange:focus {
+  background-color: #eee;
+  color: #16ab9c;
+}
+
+button.silver {
+  background-color: silver;
+  color: black;
+}
+
+button.silver:focus {
+  background-color: white;
+  color: black
+}
+
+button.equals {
+  background-color: #16ab9c;
+}
+
+button.equals:focus {
+  background-color: #eee;
+  color: #16ab9c;
+}
+
+button.zero {
+  text-align: left;
+  padding-left: 32px;
+  grid-row: 6;
+  grid-column-start: 1;
+  grid-column-end: span 2;
+  border-radius: 50px;
+}
+
+button.num:focus
+{
+    background: #16ab9c;
+}
+
+input#currentValue
+{
+    border: none;
+}
