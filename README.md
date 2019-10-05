@@ -26,7 +26,7 @@
 ​​
 ​​
 
-### Status : ​​​​ ![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator.svg?color=orange) ​​ ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekverma007/iweb-calculator.svg?color=yellow) ​​ ![GitHub release](https://img.shields.io/badge/release-v.1.0Beta-darklime.svg?style=flat)
+### Status : ​​​​ ![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator.svg?color=orange) ​​ ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekverma007/iweb-calculator.svg?color=yellow) ​​ ![GitHub release](https://img.shields.io/badge/release-v.1.0Stable-darklime.svg?style=flat)
 
 
 ### Social : ​​​​ 
