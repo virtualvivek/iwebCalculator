@@ -20,9 +20,9 @@
     <img src="https://img.shields.io/github/languages/code-size/vivekverma007/iweb-calculator.svg?color=yellow"
       alt="Repo. Size" />
   </a>
-  	<a href="https://opensource.org/licenses/Apache">
-    <img src="https://img.shields.io/badge/License-Apache2.0-blue.svg"
-      alt="License: Apache" />
+  	<a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg"
+      alt="License:MIT" />
   </a>
   	<a href="https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator">
     <img src="https://img.shields.io/badge/Release-v1.0Stable-darklime.svg?style=flat"
@@ -49,7 +49,7 @@
 ```
 ### Live Demo : [virtualiz.me/iweb-calculator](https://virtualize.netlify.com/)
 
-
+​ 
 ### Social : ​​​​ 
 [![Twitter](https://img.shields.io/badge/Twitter-@Vivekverma__-blue.svg?style=flat)](http://twitter.com/Vivekverma__)
 [![Codepen](https://img.shields.io/badge/Codepen-@vivekverma007-orange.svg?style=flat)](http://codepen.com/vivekverma007)
