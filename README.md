@@ -4,6 +4,32 @@
 
 
 <h1 align="center">iweb-calculator</h1>
+
+<p align="center">
+    
+<a href="https://angularjs.org">
+    <img src="https://img.shields.io/badge/Platform-Angularjs-yellow.svg?color=red"
+      alt="Platform" />
+  </a>
+  	
+  <a href="https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator">
+    <img src="https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator.svg?color=orange"
+      alt="Repo. Size" />
+  </a>
+   <a href="https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator">
+    <img src="https://img.shields.io/github/languages/code-size/vivekverma007/iweb-calculator.svg?color=yellow"
+      alt="Repo. Size" />
+  </a>
+  	<a href="https://opensource.org/licenses/Apache">
+    <img src="https://img.shields.io/badge/License-Apache2.0-blue.svg"
+      alt="License: Apache" />
+  </a>
+  	<a href="https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator">
+    <img src="https://img.shields.io/badge/Release-v1.0Stable-darklime.svg?style=flat"
+      alt="Release" />
+  </a>
+
+</p>
 <p align="center">
     ______  An ios-12 inspired ultra light web calculator  ______
 </p>
@@ -22,11 +48,6 @@
 <script type='text/javascript' src='angular.min.js'></script>
 ```
 ### Live Demo : [virtualiz.me/iweb-calculator](https://virtualize.netlify.com/)
-
-​​
-​​
-
-### Status : ​​​​ ![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator.svg?color=orange) ​​ ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekverma007/iweb-calculator.svg?color=yellow) ​​ ![GitHub release](https://img.shields.io/badge/release-v.1.0Stable-darklime.svg?style=flat)
 
 
 ### Social : ​​​​ 
