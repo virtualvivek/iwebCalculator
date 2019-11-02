@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/vivekverma007/iweb-calculator/blob/master/preview/preview1.png" alt="iweb-Caclulator" width="585">
+<img src="https://github.com/vivekverma007/iweb-calculator/blob/master/preview/preview_large.png" alt="iweb-Caclulator" width="585">
 </p>
 
 
