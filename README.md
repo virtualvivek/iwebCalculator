@@ -38,9 +38,9 @@
 
 ## Installation
 ##### Add `iweb-calculator` folder in your target project file.
-##### include -
+##### include layout using a preprocessor language-
 ```php
-<?php include 'iweb-calculator/index.html';?>
+<?php include 'iweb-calculator/calculator.html';?>
 ```
 
 #### Requirements
