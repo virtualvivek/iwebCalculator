@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">iweb-calculator</h1>
+<h2 align="center"> <img src="https://github.com/vivekverma007/iweb-calculator/blob/master/preview/app_title.png" width="340" /> </h2>
 
 <p align="center">
     
@@ -47,7 +47,21 @@
 ```html
 <script type='text/javascript' src='angular.min.js'></script>
 ```
-### Live Demo : [virtualiz.me/iweb-calculator](https://virtualize.netlify.com/)
+### 🎴 Live Demo : [virtualiz.me/iweb-calculator](https://virtualize.netlify.com/)
+​ 
+
+
+### Usage
+To use values returned by the calculator-
+```js
+use {{c_value}}
+
+Eg: <input type="text" placeholder="Result" value="{{c_value}}"/>
+```
+OR through `ng` tag-
+```js
+ng-model="c_value"
+```
 
 ​ 
 ### Social : ​​​​ 
