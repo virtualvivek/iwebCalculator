@@ -28,6 +28,12 @@
     <img src="https://img.shields.io/badge/Release-v1.0Stable-darklime.svg?style=flat"
       alt="Release" />
   </a>
+  
+  
+   <a href="https://virtualize.netlify.com">
+    <img src="https://img.shields.io/badge/⚡ live demo-here-green.svg?style=flat"
+      alt="Demo" />
+  </a>
 
 </p>
 <p align="center">
