@@ -56,11 +56,11 @@ button:focus
   grid-column-start: 1;
   grid-column-end: span 4;
   text-align: right;
-    font-size: 35px;
-    height: 50px;
-    padding-right: 10px;
-    position: relative;
-    top: 15px;
+  font-size: 35px;
+  height: 50px;
+  padding-right: 10px;
+  position: relative;
+  top: 15px;
 }
 
 button.btn {
