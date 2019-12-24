@@ -7,9 +7,14 @@
 
 <p align="center">
     
-<a href="https://angularjs.org">
-    <img src="https://img.shields.io/badge/Platform-Angularjs-yellow.svg?color=red"
+ <a href="https://angularjs.org">
+    <img src="https://img.shields.io/badge/Platform-Web-yellow.svg?color=purple"
       alt="Platform" />
+  </a>   
+    
+<a href="https://angularjs.org">
+    <img src="https://img.shields.io/badge/Framework-Angularjs-yellow.svg?color=red"
+      alt="Framework" />
   </a>
   	
   <a href="https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator">
