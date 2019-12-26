@@ -58,7 +58,7 @@
 ```html
 <script type='text/javascript' src='angular.min.js'></script>
 ```
-### 🎴 Live Demo : [virtualiz.me/iweb-calculator](https://virtualize.netlify.com/)
+### ⚡ Live Demo : [virtualiz.me/iweb-calculator](https://virtualize.netlify.com/)
 ​ 
 
 
