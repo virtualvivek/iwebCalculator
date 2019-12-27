@@ -48,8 +48,8 @@
 <img align="left" src="https://github.com/vivekverma007/iweb-calculator/blob/master/preview/preview2.PNG" width="220" /> 
 
 ## Installation
-##### Add `iweb-calculator` folder in your target project file.
-##### include layout using a preprocessor language-
+Add `iweb-calculator` folder in your target project file. <br>
+Include layout using a `preprocessor` language-
 ```php
 <?php include 'iweb-calculator/calculator.html';?>
 ```
