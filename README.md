@@ -73,7 +73,7 @@ OR through `ng` tag-
 ng-model="c_value"
 ```
 
-​ 
+ 
 ### Social : ​​​​ 
 [![Twitter](https://img.shields.io/badge/Twitter-@Vivekverma__-blue.svg?style=flat)](http://twitter.com/Vivekverma__)
 [![Codepen](https://img.shields.io/badge/Codepen-@vivekverma007-orange.svg?style=flat)](http://codepen.com/vivekverma007)
