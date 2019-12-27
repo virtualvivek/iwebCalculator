@@ -7,7 +7,7 @@
 
 <p align="center">
     
- <a href="https://angularjs.org">
+ <a href="https://google.com?p=web">
     <img src="https://img.shields.io/badge/Platform-Web-yellow.svg?color=purple"
       alt="Platform" />
   </a>   
