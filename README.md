@@ -30,7 +30,7 @@
       alt="License:MIT" />
   </a>
   	<a href="https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator">
-    <img src="https://img.shields.io/badge/Release-v1.0Stable-darklime.svg?style=flat"
+    <img src="https://img.shields.io/badge/Release-v1.1-darklime.svg?style=flat"
       alt="Release" />
   </a>
   
