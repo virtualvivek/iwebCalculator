@@ -83,13 +83,13 @@ button.orange:focus {
 }
 
 button.silver {
-  background-color: silver;
-  color: black;
+    background-color: silver;
+    color: black;
 }
 
 button.silver:focus {
-  background-color: white;
-  color: black
+    background-color: white;
+    color: black
 }
 
 button.equals {
