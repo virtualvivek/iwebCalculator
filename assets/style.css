@@ -6,7 +6,7 @@ body
 }
 
 button {
-  font-size: 20px;
+    font-size: 20px;
 }
 
 button:focus
@@ -15,12 +15,12 @@ button:focus
 }
 
 .background-green {
-  background: green;
-  background-color: green;
+    background: green;
+    background-color: green;
 }
 
 .container {
-  display: grid;
+    display: grid;
     justify-content: center;
     grid-template-columns: 50px 50px 50px 50px;
     grid-template-rows: 80px 55px;
@@ -42,44 +42,44 @@ button:focus
 }
 
 .item-header {
-  grid-area: header;
-  color: white;
+    grid-area: header;
+    color: white;
 }
 
 #globalAnswer {
-  background-color:#111;
-  font-size: 1px;
+    background-color:#111;
+    font-size: 1px;
 }
 
 #currentValue {
-  background-color: #111;
-  grid-column-start: 1;
-  grid-column-end: span 4;
-  text-align: right;
-  font-size: 35px;
-  height: 50px;
-  padding-right: 10px;
-  position: relative;
-  top: 15px;
+    background-color: #111;
+    grid-column-start: 1;
+    grid-column-end: span 4;
+    text-align: right;
+    font-size: 35px;
+    height: 50px;
+    padding-right: 10px;
+    position: relative;
+    top: 15px;
 }
 
 button.btn {
-  background-color: dimgray;
-  border: none;
-  color: white;
-  padding: 10px;
-  text-align: center;
-  margin: 4px 2px;
-  border-radius: 50%;
+    background-color: dimgray;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 4px 2px;
+    border-radius: 50%;
 }
 
 button.orange {
-  background-color: #16ab9c;
+    background-color: #16ab9c;
 }
 
 button.orange:focus {
-  background-color: #eee;
-  color: #16ab9c;
+    background-color: #eee;
+    color: #16ab9c;
 }
 
 button.silver {
@@ -93,21 +93,21 @@ button.silver:focus {
 }
 
 button.equals {
-  background-color: #16ab9c;
+    background-color: #16ab9c;
 }
 
 button.equals:focus {
-  background-color: #eee;
-  color: #16ab9c;
+    background-color: #eee;
+    color: #16ab9c;
 }
 
 button.zero {
-  text-align: left;
-  padding-left: 32px;
-  grid-row: 6;
-  grid-column-start: 1;
-  grid-column-end: span 2;
-  border-radius: 50px;
+    text-align: left;
+    padding-left: 32px;
+    grid-row: 6;
+    grid-column-start: 1;
+    grid-column-end: span 2;
+    border-radius: 50px;
 }
 
 button.num:focus
