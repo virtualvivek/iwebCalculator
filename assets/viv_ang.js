@@ -80,7 +80,4 @@ app.controller('myCtrl', function($scope) {
         $scope.c_value = 1/$scope.$eval($scope.c_value);
     }
     
-   
-    
-    
-});
+  });
