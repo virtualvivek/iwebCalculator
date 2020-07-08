@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://github.com/vivekverma007/iweb-calculator/blob/master/preview/preview_large.png" alt="iweb-Caclulator" width="585">
+<img src="preview/preview_large.png" alt="iweb-Caclulator" width="585">
 </p>
 
 
-<h2 align="center"> <img src="https://github.com/vivekverma007/iweb-calculator/blob/master/preview/app_title.png" width="340" /> </h2>
+<h2 align="center"> <img src="preview/app_title.png" width="340" /> </h2>
 
 <p align="center">
     
@@ -17,19 +17,19 @@
       alt="Framework" />
   </a>
   	
-  <a href="https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator">
+  <a href="https://img.shields.io/github/repo-size/virtualvivek/iweb-calculator">
     <img src="https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator.svg?color=orange"
       alt="Repo. Size" />
   </a>
-   <a href="https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator">
+   <a href="https://img.shields.io/github/repo-size/virtualvivek/iweb-calculator">
     <img src="https://img.shields.io/github/languages/code-size/vivekverma007/iweb-calculator.svg?color=yellow"
-      alt="Repo. Size" />
+      alt="Code. Size" />
   </a>
   	<a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg"
       alt="License:MIT" />
   </a>
-  	<a href="https://img.shields.io/github/repo-size/vivekverma007/iweb-calculator">
+  	<a href="https://img.shields.io/github/repo-size/virtualvivek/iweb-calculator">
     <img src="https://img.shields.io/badge/Release-v1.1-darklime.svg?style=flat"
       alt="Release" />
   </a>
@@ -45,7 +45,7 @@
     ______  An ios-12 inspired ultra light web calculator  ______
 </p>
 
-<img align="left" src="https://github.com/vivekverma007/iweb-calculator/blob/master/preview/preview2.PNG" width="220" /> 
+<img align="left" src="preview/preview2.PNG" width="220" /> 
 
 ## Installation
 Add `iweb-calculator` folder in your target project file. <br>
@@ -88,5 +88,5 @@ Latest ✔ | Latest ✔ | Latest ✔ | 9.1+ ✔ | Latest ✔ |
 
 ## License
 
-iwebCalculator is licensed under `MIT license`. View [license](https://github.com/vivekverma007/iweb-calculator/blob/master/LICENSE).<br>
-Copyright (c) 2019 @vivekverma007
+iwebCalculator is licensed under `MIT license`. View [license](https://github.com/virtualvivek/iweb-calculator/blob/master/LICENSE).<br>
+Copyright (c) 2019 @vivekverma
