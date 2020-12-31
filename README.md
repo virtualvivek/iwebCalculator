@@ -89,4 +89,4 @@ Latest ✔ | Latest ✔ | Latest ✔ | 9.1+ ✔ | Latest ✔ |
 ## License
 
 iwebCalculator is licensed under `MIT license`. View [license](https://github.com/virtualvivek/iweb-calculator/blob/master/LICENSE).<br>
-Copyright (c) 2019-21 @vivekverma
+Copyright (c) 2019-21 Vivek Verma
